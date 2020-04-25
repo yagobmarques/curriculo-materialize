@@ -29,6 +29,13 @@ h4{
     letter-spacing: 1px;
     font-family: sans-serif;
 }
+p{
+    color:white;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
 .black-transp{
     background-color: rgba(0, 0, 0, 0.7);
 }
